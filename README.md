@@ -11,6 +11,11 @@ Para executar as aplicações, você precisará ter o seguinte instalado em sua 
 
 ## Como Rodar as Aplicações
 
+### Clonar o Repositório
+
+1. Abra um terminal.
+2. Execute o comando `git clone https://github.com/MurilloCouto/Estagio-Ribeirao-Preto-2024-Murillo-Couto.git`.
+
 ### Arquivos JavaScript Puro e TXT
 
 Para rodar os arquivos JavaScript puro, siga estas etapas:
