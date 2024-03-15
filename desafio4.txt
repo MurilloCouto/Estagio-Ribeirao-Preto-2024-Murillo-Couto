@@ -1,0 +1,18 @@
+1º Se eu não puder tocar nas lâmpadas, consigo identificar em duas idas:
+
+- Ligo o primeiro interruptor, entro na sala e verifico qual lâmpada está acesa. Assim, sei que o primeiro interruptor corresponde àquela lâmpada.
+
+- Volto à sala dos interruptores, desligo o primeiro interruptor, ligo o segundo interruptor e entro na sala das lâmpadas novamente para ver qual está acesa. Dessa forma, identifico que o segundo interruptor corresponde àquela lâmpada.
+
+- Por eliminação, a lâmpada que não acendeu em nenhuma das duas idas logicamente corresponde ao terceiro interruptor.
+
+
+2º Se eu puder considerar que posso tocar nas lâmpadas, consigo descobrir em apenas uma ida à sala:
+
+- Ligo um dos interruptores e espero um pouco. Em seguida, desligo esse interruptor, ligo outro e entro na sala das lâmpadas.
+
+- Se encontrar uma lâmpada desligada e quente, identifico que o primeiro interruptor controla essa lâmpada.
+
+- Se uma das lâmpadas estiver acesa, identifico que o segundo interruptor controla essa lâmpada.
+
+- Se encontrar uma lâmpada desligada e fria, identifico que o terceiro interruptor controla essa lâmpada.
